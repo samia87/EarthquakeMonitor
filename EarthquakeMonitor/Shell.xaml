@@ -1,0 +1,15 @@
+﻿<Window x:Class="EarthquakeMonitor.Shell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EarthquakeMonitor"
+        xmlns:prism="http://www.codeplex.com/prism" 
+        xmlns:inf="clr-namespace:EarthquakeMonitor.Infrastructure;assembly=EarthquakeMonitor.Infrastructure"
+        mc:Ignorable="d"
+        Title="Earthquake Monitor" Height="768" Width="1024" WindowStartupLocation="CenterScreen" WindowState="Maximized"
+        ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Top">
+        <ContentControl x:Name="ActionContent" prism:RegionManager.RegionName="{x:Static inf:RegionNames.SummaryRegion}"></ContentControl>
+    </Grid>
+</Window>

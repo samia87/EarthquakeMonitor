@@ -20,3 +20,4 @@ C:\Users\samia\documents\visual studio 2015\Projects\EarthquakeMonitor\Earthquak
 C:\Users\samia\documents\visual studio 2015\Projects\EarthquakeMonitor\EarthquakeMonitor.Infrastructure\obj\Release\EarthquakeMonitor.Infrastructure.csproj.GenerateResource.Cache
 C:\Users\samia\documents\visual studio 2015\Projects\EarthquakeMonitor\EarthquakeMonitor.Infrastructure\obj\Release\EarthquakeMonitor.Infrastructure.dll
 C:\Users\samia\documents\visual studio 2015\Projects\EarthquakeMonitor\EarthquakeMonitor.Infrastructure\obj\Release\EarthquakeMonitor.Infrastructure.pdb
+C:\Users\samia\Documents\Visual Studio 2015\Projects\EarthquakeMonitor\EarthquakeMonitor.Infrastructure\obj\Release\EarthquakeMonitor.Infrastructure.csprojResolveAssemblyReference.cache
